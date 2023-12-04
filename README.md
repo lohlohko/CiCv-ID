@@ -2,7 +2,7 @@
 <h3 align="center">CiCV ID application is an innovative solution that allows job applicants to improve the suitability of their CV to the company's recruitment criteria</h3>
 <h2>Team Members</h2>
 <h3>Team ID : CH2-PS495</h3>
-<table>
+<table align="center">
         <tr>
             <th>Name</th>
             <th>Student ID</th>
