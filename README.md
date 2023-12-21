@@ -1,4 +1,5 @@
 <h1 align="center">CiCv ID</h1>
+<p align="center"><img src="https://github.com/lohlohko/CiCv-ID/assets/142643683/28dc3398-3eb6-4688-99c4-35fac1633227"></p>
 <h3 align="center">CiCV ID application is an innovative solution that allows job applicants to improve the suitability of their CV to the company's recruitment criteria</h3>
 <h2>Team Members</h2>
 <h3>Team ID : CH2-PS495</h3>
