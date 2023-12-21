@@ -79,7 +79,7 @@ Explanation for each endpoint that can be used :
     "message": "Success",
     "loginResult": {
         "userId": 2,
-        "name": "Admin Lucu"
+        "name": "Admin Galak"
     },
     "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiaWF0IjoxNzAxNzk3NDAyLCJleHAiOjE3MDE3OTg2MDJ9.Rtxm5NP5vTMZflqnE1i5CxHJOPRTaqxlQKaOcp2wLkY",
     "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiaWF0IjoxNzAxNzk3NDAyLCJleHAiOjE3MDE4ODM4MDJ9.4_8NQDaRhLFFb1Rz_LeNNElNr3rbHKMOPiUiShDKRjg"
