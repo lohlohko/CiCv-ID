@@ -40,3 +40,7 @@
             <td>Mobile Development</td>
         </tr>
 </table>
+<h2>About the Project</h2>
+<p>
+The CiCV ID Application successfully provides job seekers with a valuable tool to assess and enhance their CVs for specific job criteria. Users can now receive instant feedback on the suitability of their CVs, promoting self-improvement and increased competitiveness in the job market. The collaborative efforts of the Mobile Development, Machine Learning, and Cloud Computing teams led to the successful implementation of the project within the stipulated four-week timeframe. The application's functionality,
+</p>
