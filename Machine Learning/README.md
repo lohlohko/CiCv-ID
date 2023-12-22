@@ -11,7 +11,7 @@ We get dataset from various source such as:
 - [JFLEG: English Grammatical Error Benchmark](https://www.kaggle.com/datasets/thedevastator/jfleg-english-grammatical-error-benchmark)
 
 ## 2. Preparation Data
-After collecting the datasets, we do preparation data by cleaning the data we found not suitable for our model.
+After collecting the datasets, we do preparation data by cleaning the data.
 #### Link to dataset
 - [DATASET ML](https://drive.google.com/file/d/1J5cmjZt4xmA8Ab15wUKPJWXjE-kVH--G/view?usp=sharing)
 
