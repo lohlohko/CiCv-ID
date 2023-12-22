@@ -1,6 +1,6 @@
 <h1 align="center">Machine Learning</h1>
 
-# Ternaku-Bangkit-Machine-Learning
+
 # This contains what Machine Learning's team do
 The job of Machine learning Team is to learn and make machine learning model of matching the qualifications and requirements listed on a candidate's CV with the specific job they are applying for.
 
